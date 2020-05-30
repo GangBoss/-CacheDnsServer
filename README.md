@@ -26,11 +26,11 @@ That's an amazing app
 > This app gives you wide open spaces
 > to create your own Dns Server
 
-After starting server listening port 53 and resolving DNS questions with google 8.8.8.8 dns server if there no answer in cache
-All resolved data are saving to cache
-When ResourceRecord IsExpired server delete it from cache
-Cache serializing when server stoppes
-To Exit with saving cache firstly stop server
+After starting server listening port 53 and resolving DNS questions with google 8.8.8.8 dns server if there no answer in cache<br>
+All resolved data are saving to cache<br>
+When ResourceRecord IsExpired server delete it from cache<br>
+Cache serializing when server stoppes<br>
+To Exit with saving cache firstly stop server<br>
 
 
 ### Building and Staring
