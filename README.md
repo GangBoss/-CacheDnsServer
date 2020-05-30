@@ -58,8 +58,8 @@ Run it
 
 If configuration file in the same path with appliction data will be serialized!
 
-![Configuration File Example](https://imgur.com/KMPEXep)
-![Appliction iterface](https://imgur.com/mehP0Aq)
+![Configuration File Example](https://i.imgur.com/KMPEXep.png)
+![Appliction iterface](https://i.imgur.com/mehP0Aq.png)
 # Студент
 Анисимов Андрей Александрович 
 
